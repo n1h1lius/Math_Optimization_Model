@@ -2,6 +2,8 @@
 
 This project is a mathematical optimization algorithm developed in Python. It was created to assist in optimizing work scenarios based on data provided by companies, using specific mathematical formulas.
 
+![Screen Shot](Data/Images/ScreenShot.jpg)
+
 ## Description
 
 The program receives data from CSV files containing information about workers, workplaces, and relationships among them. Based on this data, the algorithm calculates various scenarios based on defined constraints, seeking the most optimal scenario possible from a mathematical perspective.
